@@ -239,4 +239,4 @@ This repository serves as the official landing page for Dragon Professional Indi
 **Get the most recent version of Dragon Professional Individual today!**
 
 ---
-**Last updated:** 2026-10-28 01:05:14 UTC
+**Last updated:** 2026-10-28 08:11:07 UTC
